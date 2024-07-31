@@ -27,7 +27,7 @@ The 2019 Lok Sabha elections were a significant event in Indian politics. This p
 The data used in this project includes:
 
 - Candidate details (name, party, constituency, age, gender, etc.)
-- Election results from previous years
+- Performance in the election
 - Socioeconomic and demographic data of constituencies
 
 The data is collected from public sources, including the Election Commission of India, news articles, and other reliable datasets.
