@@ -14,7 +14,6 @@ Welcome to the 2019 Lok Sabha Candidate Analysis & Prediction project! This repo
 - [Data Analysis](#data-analysis)
 - [Machine Learning Predictions](#machine-learning-predictions)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Results](#results)
 - [License](#license)
 
@@ -74,13 +73,6 @@ To run this project locally, follow these steps:
    ```bash
    pip install -r requirements.txt
    ```
-
-## Usage
-
-1. **Data Analysis**: Explore the data using the Jupyter notebooks provided in the `notebooks` directory.
-2. **Model Training**: Train the Random Forest model using the scripts in the `models` directory.
-3. **Prediction**: Use the trained model to make predictions on new data.
-
 ## Results
 
 The project achieved an accuracy of 96% on the test dataset, with significant insights gained from the EDA. The detailed results and findings are documented in the `reports` directory.
