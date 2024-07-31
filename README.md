@@ -51,7 +51,7 @@ We conducted a comprehensive analysis of the data, exploring various factors suc
 
 ## Machine Learning Predictions
 
-A Random Forest model was used to predict the likelihood of a candidate's victory. The model was trained on historical data and evaluated using accuracy, precision, recall, and other relevant metrics.
+A Random Forest model was used to predict the likelihood of a candidate's victory. The model was trained on historical data and evaluated using accuracy, precision and other relevant metrics.
 
 ## Installation
 
