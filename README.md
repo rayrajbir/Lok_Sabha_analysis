@@ -1,4 +1,3 @@
-Certainly! Here's the updated README with only Random Forest used for prediction and without the contributions section:
 
 ---
 
